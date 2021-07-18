@@ -1,0 +1,5 @@
+name: BausuchtVirus
+version: 0.1
+main: de.laparudi.bausuchtvirus.BausuchtVirus
+author: LapaRudi
+description: Abgegrieft's Bausucht-Virus
