@@ -1,5 +1,16 @@
 name: BausuchtVirus
-version: 0.1
+version: 1.1
 main: de.laparudi.bausuchtvirus.BausuchtVirus
 author: LapaRudi
-description: Abgegrieft's Bausucht-Virus
+api-version: 1.13
+description: Abgegrieft's Bausucht-Virus [Remake]
+
+permissions: 
+  bausuchtvirus.use:
+    description: Rechte für Plugin-Info '#Bausuchtvirus'
+  bausuchtvirus.start:
+    description: Rechte für '#startvirus'
+  bausuchtvirus.stop:
+    description: Rechte für '#stopvirus'
+  bausuchtvirus.delay:
+    description: Rechte für '#delay'
